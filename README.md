@@ -1,4 +1,4 @@
-OLÁ! eu sou Jackson Cordeiro
+BEM VINDO(a) ao perfil de Jackson Cordeiro
 ##
 
 👨‍🎓 Estudante de Ciências Econômicas<br>
