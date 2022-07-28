@@ -22,6 +22,6 @@ BEM VINDO(a) ao perfil de Jackson Cordeiro
   <a href="https://instagram.com/cordeirojack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jacksonrenan9710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/jacksoncordeiro/jacksoncordeiro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jacksoncordeiro97/jacksoncordeiro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
