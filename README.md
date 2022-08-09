@@ -1,8 +1,6 @@
 BEM VINDO(a) ao perfil de Jackson Cordeiro
 ##
 
-👨‍🎓 Estudante de Ciências Econômicas<br>
-💻 Estudando para Dev front end
 
 <div align="left">
   <a href="https://github.com/jacksoncordeiro">
